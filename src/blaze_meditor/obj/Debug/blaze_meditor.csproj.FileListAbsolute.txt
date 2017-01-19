@@ -1,1 +1,11 @@
 c:\users\j0rpi\documents\visual studio 2015\Projects\blaze_meditor\blaze_meditor\bin\Debug\blaze_meditor.exe.config
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\bin\Debug\blaze_meditor.exe.config
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\bin\Debug\blaze_meditor.exe
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\bin\Debug\blaze_meditor.pdb
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\obj\Debug\blaze_meditor.csprojResolveAssemblyReference.cache
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\obj\Debug\blaze_meditor.Form1.resources
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\obj\Debug\blaze_meditor.Properties.Resources.resources
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\obj\Debug\blaze_meditor.Splash.resources
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\obj\Debug\blaze_meditor.csproj.GenerateResource.Cache
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\obj\Debug\blaze_meditor.exe
+C:\Users\j0rpi\Documents\GitHub\blaze_meditor\src\blaze_meditor\obj\Debug\blaze_meditor.pdb
