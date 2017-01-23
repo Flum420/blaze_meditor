@@ -1,0 +1,9 @@
+<Entities>
+	<ent id="light">
+		<entname>light</entname>
+		<function>light</function>
+		<param1>color</param1>
+	</ent>
+</Entities>
+		
+	

@@ -1,0 +1,14 @@
+<Map>
+	<properties>
+		<author>Flum420</author>
+		<desc>Empty map</desc>
+	</properties>
+	<tile>
+		<x>0</x>
+		<y>0</y>
+		<level>0</level>
+		<mat>/textures/tiles/material.png</mat>
+	</tile>
+</Map>
+		
+	
